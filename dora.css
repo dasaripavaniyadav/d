@@ -1,0 +1,14 @@
+body{
+    font-size: 30px;
+    background-image: url("doraemon.jpg");
+    background-size: cover;
+}
+h2{
+    background-color: aqua;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
+
